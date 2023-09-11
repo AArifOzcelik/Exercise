@@ -6,15 +6,14 @@
         * etcd Cluster
         * kube-apiserver
         * kube-scheduler
-        * kube-proxy
         * kubelet
-        * Container Runtime Engine
+        * kube-proxy
+
     * API Primitives
         * Node
         * Pod
         * Replica Set
-        * Service
-    * Services & Other Network Primitives
+    * Services
         * NodePort
         * ClusterIP
         * LoadBalancer
